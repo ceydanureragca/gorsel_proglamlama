@@ -1,0 +1,17 @@
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\bin\Debug\net6.0-windows\görsel ödevi.exe
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\bin\Debug\net6.0-windows\görsel ödevi.deps.json
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\bin\Debug\net6.0-windows\görsel ödevi.runtimeconfig.json
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\bin\Debug\net6.0-windows\görsel ödevi.dll
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\bin\Debug\net6.0-windows\görsel ödevi.pdb
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\obj\Debug\net6.0-windows\görsel ödevi.csproj.AssemblyReference.cache
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\obj\Debug\net6.0-windows\görsel_ödevi.Form1.resources
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\obj\Debug\net6.0-windows\görsel ödevi.csproj.GenerateResource.cache
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\obj\Debug\net6.0-windows\görsel ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\obj\Debug\net6.0-windows\görsel ödevi.AssemblyInfoInputs.cache
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\obj\Debug\net6.0-windows\görsel ödevi.AssemblyInfo.cs
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\obj\Debug\net6.0-windows\görsel ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\obj\Debug\net6.0-windows\görsel ödevi.dll
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\obj\Debug\net6.0-windows\refint\görsel ödevi.dll
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\obj\Debug\net6.0-windows\görsel ödevi.pdb
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\obj\Debug\net6.0-windows\görsel ödevi.genruntimeconfig.cache
+C:\Users\Excalibur\source\repos\görsel ödevi\görsel ödevi\obj\Debug\net6.0-windows\ref\görsel ödevi.dll
