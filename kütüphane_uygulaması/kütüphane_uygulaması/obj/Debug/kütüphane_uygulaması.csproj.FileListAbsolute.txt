@@ -1,0 +1,12 @@
+C:\Users\Excalibur\source\repos\kütüphane_uygulaması\kütüphane_uygulaması\bin\Debug\kütüphane_uygulaması.exe.config
+C:\Users\Excalibur\source\repos\kütüphane_uygulaması\kütüphane_uygulaması\bin\Debug\kütüphane_uygulaması.exe
+C:\Users\Excalibur\source\repos\kütüphane_uygulaması\kütüphane_uygulaması\bin\Debug\kütüphane_uygulaması.pdb
+C:\Users\Excalibur\source\repos\kütüphane_uygulaması\kütüphane_uygulaması\obj\Debug\kütüphane_uygulaması.csproj.AssemblyReference.cache
+C:\Users\Excalibur\source\repos\kütüphane_uygulaması\kütüphane_uygulaması\obj\Debug\kütüphane_uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur\source\repos\kütüphane_uygulaması\kütüphane_uygulaması\obj\Debug\kütüphane_uygulaması.AnaEkran.resources
+C:\Users\Excalibur\source\repos\kütüphane_uygulaması\kütüphane_uygulaması\obj\Debug\kütüphane_uygulaması.KitapEklemeEkranı.resources
+C:\Users\Excalibur\source\repos\kütüphane_uygulaması\kütüphane_uygulaması\obj\Debug\kütüphane_uygulaması.Properties.Resources.resources
+C:\Users\Excalibur\source\repos\kütüphane_uygulaması\kütüphane_uygulaması\obj\Debug\kütüphane_uygulaması.csproj.GenerateResource.cache
+C:\Users\Excalibur\source\repos\kütüphane_uygulaması\kütüphane_uygulaması\obj\Debug\kütüphane_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\source\repos\kütüphane_uygulaması\kütüphane_uygulaması\obj\Debug\kütüphane_uygulaması.exe
+C:\Users\Excalibur\source\repos\kütüphane_uygulaması\kütüphane_uygulaması\obj\Debug\kütüphane_uygulaması.pdb
